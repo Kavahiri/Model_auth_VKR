@@ -1,0 +1,13 @@
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\bin\Debug\model_auth.exe.config
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\bin\Debug\model_auth.exe
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\bin\Debug\model_auth.pdb
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.Properties.Resources.resources
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.csproj.GenerateResource.cache
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.csproj.CoreCompileInputs.cache
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.exe
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.pdb
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.csproj.AssemblyReference.cache
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.MainForm.resources
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.ProcessForm.resources
+C:\Users\Kavahiri\Desktop\Диплом\model_auth\obj\Debug\model_auth.TableForm.resources
